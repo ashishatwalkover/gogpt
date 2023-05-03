@@ -47,3 +47,20 @@ p,h1,h2,h3,h4,h5,h6{
 .sub-card{
     background: linear-gradient(180deg, #5E00D7 0%, #301455 100%);
 }
+.footer{
+    background: linear-gradient(98.04deg, #420097 0.27%, #66005C 100.01%);
+}
+.download-btn{
+    width: 4rem;
+    height: 4rem;
+}
+.os-btn{
+    width: 2rem;
+
+}
+a{
+    text-decoration: none!important;
+}
+.footer-link{
+    color: #727272;
+}
