@@ -26,6 +26,14 @@ p,h1,h2,h3,h4,h5,h6{
 .hero-serach-cont{
     border: 1px solid rgb(148, 148, 148);
 }
+.small-heading-text{
+    width: fit-content;
+    background: linear-gradient(90deg, #FF029A 0%, #0094FF 100%);
+}
+.head-text{
+    background: rgba(136, 162, 254, 0.4);
+
+}
 .search-imput{
     width: 100%;
     background: none;
