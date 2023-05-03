@@ -34,3 +34,16 @@ p,h1,h2,h3,h4,h5,h6{
     border: none;
     color: white;
 }
+.usecase-cont{
+    background-color: #1E1E1E;
+}
+.youtube-home{
+    height:700px ;
+}
+.testimonials-errow{
+    width: 4rem;
+    height: 4rem;
+}
+.sub-card{
+    background: linear-gradient(180deg, #5E00D7 0%, #301455 100%);
+}
