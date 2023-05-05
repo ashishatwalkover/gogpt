@@ -30,9 +30,23 @@ p,h1,h2,h3,h4,h5,h6{
     width: fit-content;
     background: linear-gradient(90deg, #FF029A 0%, #0094FF 100%);
 }
+.heroicontext{
+
+    align-items: baseline;
+    justify-content: end;
+    margin-bottom: ;
+}
 .head-text{
     background: rgba(136, 162, 254, 0.4);
+    height: fit-content
+    ;
 
+}
+.heroicon{
+    height: 6rem;
+    position: relative;
+    bottom: 30px;
+    left: 10px;
 }
 .search-imput{
     width: 100%;
@@ -41,6 +55,13 @@ p,h1,h2,h3,h4,h5,h6{
     box-shadow: none;
     border: none;
     color: white;
+}
+
+.link-textbox:hover{
+    background-color: #1E1E1E;
+}
+.link-link-textbox{
+    color: white!important;
 }
 .usecase-cont{
     background-color: #1E1E1E;
@@ -65,6 +86,16 @@ p,h1,h2,h3,h4,h5,h6{
 .os-btn{
     width: 2rem;
 
+}
+.os-logo{
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    background-color: white;
+}
+.os-logo-img{
+
+    width: 2rem;
 }
 a{
     text-decoration: none!important;
